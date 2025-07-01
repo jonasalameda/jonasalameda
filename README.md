@@ -25,5 +25,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasalameda&show_icons=true&locale=en&layout=compact" alt="jonasalameda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonasalameda&show_icons=true&locale=en" alt="jonasalameda" /></p>
-
