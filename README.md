@@ -16,7 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/geladeirah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geladeirah" height="30" width="40" /></a>
-<a href="https://discord.gg/top9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="top9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jonas-henrique-faes-de-almeida-1a2188282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonas-henrique-faes-de-almeida-1a2188282" height="30" width="40" /></a>
+<a href="https://instagram.com/nameless.jonas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nameless.jonas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
