@@ -1,4 +1,4 @@
-<h1 align="center">Hi, My name's Jonas</h1>
+<h1 align="center">Heyo, my name's Jonas</h1>
 <h3 align="center">An aspiring full-stack developer from Montreal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonasalameda&label=Profile%20views&color=0e75b6&style=flat" alt="jonasalameda" /> </p>
